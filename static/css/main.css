@@ -35,6 +35,68 @@ body {
   margin: auto;
 }
 
+
+
+.curriculo{
+  padding: 25px;
+}
+
+.experiencia{
+  padding: 25px;
+
+}
+
+.cargo{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  padding-bottom: 0; 
+  padding-top: 15px;
+}
+
+
+.cursos{
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  padding-bottom: 0; 
+  padding-top: 15px;
+  font-size: 15px;
+}
+
+
+.tecnicas{
+  display: flex;
+  justify-content: start;
+
+  text-align: justify;
+
+  padding: 25px;
+  padding-bottom: 0; 
+  padding-top: 15px;
+  font-size: 15px;
+}
+
+.descricao{
+  padding: 25px;
+  text-align: justify;
+  font-size: 15px;
+  padding-top: 0;
+}
+
+.curriculo p{
+  padding: 5px;
+  text-align: justify;
+  font-size: 15px;
+}
+
+.text-cv {
+  font-size: 18px !important;
+  text-align: justify;
+  white-space: pre-line;
+  font-family: "Work Sans", sans-serif; 
+}
+
 a {
   color: #6C55F9;
   text-decoration: none;
